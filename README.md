@@ -1,7 +1,7 @@
 
 # Safer Internet
 
-  O projeto é um site ,que discute sobre a seguraça digital.
+  O projeto é um site, que discute sobre a seguraça digital.
   Elaborado para a disciplina HTML do curso de desenvolvimento Web.
 
 
